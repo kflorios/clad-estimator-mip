@@ -11,5 +11,9 @@ Currently, left censoring at zero is supposed, as is in most applications of CLA
 In order to have a more flexible modeling approach, readers are suggested to consult the GAMS version
 of the same model in https://www.gams.com/modlib/libhtml/clad.htm.
 
-Feedback for the MATLAB code at cflorios@central.ntua.gr, cflorios@aueb.gr
-Suggested publication:  http://ssrn.com/abstract=2372588 
+Feedback for the MATLAB code at: cflorios@central.ntua.gr, cflorios@aueb.gr
+
+Suggested Reference:  
+
+Bilias, Yannis and Florios, Kostas and Skouras, Spyros, Exact Computation of Censored Least Absolute Deviations Estimators (December 28, 2013). Available at SSRN: http://ssrn.com/abstract=2372588
+
